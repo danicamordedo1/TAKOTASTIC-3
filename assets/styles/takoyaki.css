@@ -1,0 +1,76 @@
+#takoyaki{
+    display: flex;
+    align-items: center;
+  padding: 72px 20px;
+  gap: 32px;
+}
+
+.takoyaki-content h1 {
+    font-size: 48px;
+}
+
+.takoyaki-content p {
+    margin: 18px 0;
+}
+
+.takoyaki-container{
+    margin: 18px 0;
+}
+
+.takoyaki-image{
+    width: 100%;
+}
+
+.takoyaki-image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+  }
+  @media only screen and (max-width: 768px) {
+    #hero-banner {
+      flex-direction: column-reverse;
+    }
+}
+
+.takoyaki-image-2 img{
+  width: 350px;
+  height: 350px;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 18px 20px; 
+ 
+}
+
+
+.takoyaki-container-2{
+  margin: 18px 0;
+}
+
+.takoyaki-2 h1{
+  font-size: 48px;
+ 
+}
+
+.takoyaki-img img{
+  border-radius: 15px 50px ;
+}
+
+
+
+
+
+
+  
+
+
+
+ 
+
+
+  
+  
+   
+
+   
+  
+

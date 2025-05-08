@@ -1,0 +1,31 @@
+@import "card.css";
+@import "button.css";
+
+
+@import "navbar.css";
+@import "takoyaki.css";
+@import "services.css";
+@import "footer.css";
+@import "contact.css";
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden; 
+    background-color: #797d7f;
+   
+  }
+  
+  .container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 50px 50px;
+  }
+
