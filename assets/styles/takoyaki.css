@@ -1,8 +1,8 @@
 #takoyaki{
     display: flex;
     align-items: center;
-  padding: 72px 20px;
-  gap: 32px;
+    padding: 72px 20px;
+    gap: 32px;
 }
 
 .takoyaki-content h1 {
@@ -16,7 +16,6 @@
 .takoyaki-container{
     margin: 18px 0;
 }
-
 .takoyaki-image{
     width: 100%;
 }
